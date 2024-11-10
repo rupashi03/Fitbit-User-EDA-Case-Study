@@ -53,4 +53,4 @@
          They can also send weekly health tips on their device.</li>
     </ol>
   </p>
-  
+  <a href = "https://www.kaggle.com/code/rupashijaiswal/bellabeat-capstone-project">Click here to view full case study</a>
